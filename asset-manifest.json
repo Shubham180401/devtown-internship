@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devtown-internship/static/css/main.964fdded.css",
+    "main.js": "/devtown-internship/static/js/main.6d0607b1.js",
+    "index.html": "/devtown-internship/index.html",
+    "main.964fdded.css.map": "/devtown-internship/static/css/main.964fdded.css.map",
+    "main.6d0607b1.js.map": "/devtown-internship/static/js/main.6d0607b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.6d0607b1.js"
+  ]
+}
